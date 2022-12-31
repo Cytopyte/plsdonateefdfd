@@ -743,8 +743,8 @@ end)
 
 webhookTab:Button("Test", "Sends a test message to your webhook to verify it is working", function()
     if getgenv().settings.webhookBox then
-        webhook("CAPYPCRACK PLS DONATE AFK Script")
-	webhook("This is test")
+        webhook("Matrix escaper PLS DONATE AFK Script")
+	webhook("crack by cytopyte#5238 is working!!")
     end
 end)
 
@@ -836,10 +836,10 @@ end)
 otherTab:Button("Discord Server", "Copies Discord server link", function()
     local cboard = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set)
     if cboard then
-        --cboard("https://discord.gg")
-        cboard("CAPYPCRACKED BY cytopyte#5238 AND THE CRACKER PENGUINS")
+        --cboard("https://discord.gg/eERapayqjr")
+        cboard("CAPYPCRACKED BY cytopyte#5238")
     end
-    Flux:Notification("CAPYCRACKED BY THE CRACKER TOPG", "STAY MAD", "i have no LIFE")
+    Flux:Notification("CAPYCRACKED BY THE  TOPG", "STAY RICH", "i have no LIFE")
 end)
 
 otherTab:Line()
