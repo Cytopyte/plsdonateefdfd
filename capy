@@ -791,8 +791,8 @@ end)
 
 serverHopTab:Toggle("Re-Execute", "Executes the script after server hop\nTurn this off if you use autoexec", getgenv().settings.reex, function(t)
     if t and not exd then
-        --queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/heqds/Pls-Donate-Premium/main/hwidobfuscated.lua'))()")
-        queueonteleport("print('reexecute crack im too lazy')")
+        --queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Cytopyte/plsdonateefdfd/main/capy'))()")
+        queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Cytopyte/plsdonateefdfd/main/capy'))()")
         exd = true
     end
     if settingsLock then return end
