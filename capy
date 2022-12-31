@@ -839,7 +839,7 @@ otherTab:Button("Discord Server", "Copies Discord server link", function()
         --cboard("https://discord.gg/eERapayqjr")
         cboard("CAPYPCRACKED BY cytopyte#5238")
     end
-    Flux:Notification("CAPYCRACKED BY THE  TOPG", "STAY RICH", "i have no LIFE")
+    Flux:Notification("https://discord.gg/eERapayqjr", "", "Joining NOW!")
 end)
 
 otherTab:Line()
